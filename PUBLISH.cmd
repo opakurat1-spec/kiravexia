@@ -34,7 +34,6 @@ echo     https://kiravexia.web.app        (updates instantly)
 echo     https://kiravexia.onrender.com   (takes 1-2 minutes)
 echo.
 echo   Press Ctrl+F5 in your browser to see the new version.
-echo   If you see an error above, screenshot it for Claude.
 echo  ==========================================================
 echo.
 pause
