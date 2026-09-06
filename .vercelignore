@@ -1,0 +1,4 @@
+*.cmd
+.firebase
+firebase.json
+render.yaml

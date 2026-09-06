@@ -1,0 +1,11 @@
+[07/09/2026  3:36:24.21] ---- STARTED ---- 
+  firebase ok 
+  surge ok 
+  vercel ok 
+[07/09/2026  3:36:24.23] step 1 firebase 
+[07/09/2026  3:36:33.39]   firebase exit=0 
+[07/09/2026  3:36:33.40] step 2 surge 
+[07/09/2026  3:36:37.63]   surge exit=0 
+[07/09/2026  3:36:37.64] step 3 vercel 
+[07/09/2026  3:36:43.81]   vercel exit=0 
+[07/09/2026  3:36:43.81] step 4 render 
