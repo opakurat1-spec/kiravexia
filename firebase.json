@@ -1,7 +1,7 @@
 {
   "hosting": {
     "site": "kiravexia",
-    "public": "public",
+    "public": "page-firebase",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [{ "source": "**", "destination": "/index.html" }]
   }

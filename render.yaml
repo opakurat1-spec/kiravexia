@@ -4,5 +4,5 @@ services:
     runtime: static
     branch: main
     buildCommand: "echo no build step needed"
-    staticPublishPath: ./public
+    staticPublishPath: ./page-render
     pullRequestPreviewsEnabled: false

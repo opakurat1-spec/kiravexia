@@ -1,5 +1,5 @@
 {
-  "outputDirectory": "public",
+  "outputDirectory": "page-vercel",
   "framework": null,
   "cleanUrls": true
 }
